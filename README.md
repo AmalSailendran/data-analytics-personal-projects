@@ -35,7 +35,7 @@ For a more detailed analysis and to access the dataset, please refer to the Kagg
 
 ## Data Analysis Code
 
-The Python code used for the data analysis can be found in the accompanying Jupyter Notebook [here](analysis.ipynb).
+The Python code used for the data analysis can be found in the accompanying Jupyter Notebook [https://github.com/AmalSailendran/data-analytics-personal-projects/blob/main/EDA%20-%20US%20International%20Air%20Traffic%20data%20(1990-2020)/EDA%20-%20US%20International%20Air%20Traffic%20data%20(1990-2020).ipynb](EDA - US International Air Traffic data (1990-2020).ipynb).
 
 
 
