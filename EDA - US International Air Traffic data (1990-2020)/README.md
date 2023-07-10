@@ -1,6 +1,5 @@
 # U.S. International Air Traffic Data Analysis
 
-![Airplane Image](airplane_image.jpg) <!-- Replace with an appropriate image -->
 
 This project involves the analysis of U.S. International Air Passenger and Freight Statistics data. The data is sourced from the U.S. Department of Transportation (USDOT) as part of the T-100 program, which collects traffic reports from U.S. and international airlines operating to and from U.S. airports.
 
