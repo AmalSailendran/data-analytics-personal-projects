@@ -1,6 +1,3 @@
-# data-analytics-personal-projects
-A repository of the various personal data analytics projects I had worked on.
-
 # U.S. International Air Traffic Data Analysis
 
 ![Airplane Image](airplane_image.jpg) <!-- Replace with an appropriate image -->
